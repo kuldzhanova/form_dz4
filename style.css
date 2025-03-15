@@ -1,0 +1,17 @@
+#input {
+    border: 2px solid #000000;
+    width: 350px;
+    height: 30px;
+    padding-left: 5px;
+    font-size: 15px;
+
+}
+#create_btn {
+    width: 150px;
+    height: 30px;
+    cursor: pointer;
+    border: 2px solid #000000;
+    background-color: #d9fcff;
+    font-size: 16px;
+    color: rgb(83, 89, 89);
+}
